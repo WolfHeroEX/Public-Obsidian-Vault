@@ -6,8 +6,8 @@ id: olden-map
 image: [[Assets/Lost Verdana/olden_map_wip.png]]
 
 # Map Canvas Size
-width: 1080px
-height: 1080px
+width: 2752px
+height: 1100px
 
 # Initial Map View (Relative To Canvas)
 lat: 50%
